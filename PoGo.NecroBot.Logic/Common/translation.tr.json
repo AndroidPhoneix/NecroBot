@@ -1,0 +1,84 @@
+{
+  "TranslationStrings": [
+    {
+      "Key": "pokeball",
+      "Value": "PokeBall"
+    },
+    {
+      "Key": "greatPokeball",
+      "Value": "GreatBall"
+    },
+    {
+      "Key": "ultraPokeball",
+      "Value": "UltraBall"
+    },
+    {
+      "Key": "masterPokeball",
+      "Value": "MasterBall"
+    },
+    {
+      "Key": "wrongAuthType",
+      "Value": "config.json Dosyasında Bilinmeyen Doğrulama"
+    },
+    {
+      "Key": "farmPokestopsOutsideRadius",
+      "Value": "Konumunuz Tanımlanan Çap Dışında! Yürümeye ({0}m Uzakta) 5sn İçinde Başlanacak. Coords.ini Dosyanız Doğrumu?"
+    },
+    {
+      "Key": "farmPokestopsNoUsableFound",
+      "Value": "Alanınızda Kullanılacak PokeStops Bulunamadı. Maksimum Uzaklığınız Küçükmü?"
+    },
+    {
+      "Key": "eventFortUsed",
+      "Value": "XP: {0}, Mücevger: {1}, Öğeler: {2}"
+    },
+    {
+      "Key": "eventFortTargeted",
+      "Value": "{0} İçinde ({1}m)"
+    },
+    {
+      "Key": "eventProfileLogin",
+      "Value": "{0} Olarak Oyuna Giriş Yapıldı"
+    },
+    {
+      "Key": "eventUsedLuckyEgg",
+      "Value": "Şanslı Yumurta Kullanıldı, Kalan Süre: {0}"
+    },
+    {
+      "Key": "eventPokemonEvolvedSuccess",
+      "Value": "{0} Başarılı {1}xp"
+    },
+    {
+      "Key": "eventPokemonEvolvedFailed",
+      "Value": "Olmadı {0}. Sonuç: {1}, Evolve Olmadı {2}"
+    },
+    {
+      "Key": "eventPokemonTransferred",
+      "Value": "{0}\t- CP: {1}  IV: {2}%   [Best CP: {3}  IV: {4}%] (Şeker: {5})"
+    },
+    {
+      "Key": "eventItemRecycled",
+      "Value": "{0}x {1}"
+    },
+    {
+      "Key": "eventPokemonCapture",
+      "Value": "({0}) | ({1}) {2} Lvl: {3} CP: ({4}/{5}) IV: {6}% | Chance: {7}% | {8}m uzaklık | ile {9} ({10} Kalan). | {11}"
+    },
+    {
+      "Key": "eventNoPokeballs",
+      "Value": "Pokeball Kalmadı - Kaybımız : {0} with CP {1}"
+    },
+    {
+      "Key": "catchStatusAttempt",
+      "Value": "{0} Tekrar  #{1}"
+    },
+    {
+      "Key": "catchStatus",
+      "Value": "{0}"
+    },
+    {
+      "Key": "candies",
+      "Value": "Şeker: {0}"
+    }
+  ]
+}
